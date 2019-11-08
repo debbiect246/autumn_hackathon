@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+      <Title>Contact-Form</Title>
+      <style>
+            .cont {
+            background-color:green;
+            color:white;
+            font-family:Arial;
+            text-align:center;            
+            }
+      </style>
+</head>
+<body>
+ <dev class="cont">
+  <header >CONTACT FORM</header>
+ <form action="https://aweb.com"  method="post">
+  <label for="name">Name</label>
+  <input type="text" name="name" id="name" placeholder="Name">
+  <label for="email">e-mail</label>
+  <input type="email" name="email" id="email" placeholder="e-mail">
+  <input type="submit" value="Send it">
+  </form>
+
+</dev>
+</body>
+
+
+</html>
