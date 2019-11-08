@@ -3,3 +3,17 @@
 body {
     background-color: #696969;
 }
+
+h1 {
+    font-family: Griffy, sans-serif;
+    font-weight: 600;
+    width: 50%;
+    line-height: 100px;
+    color: #fff;
+    background color: #000;
+}
+
+.btn {
+    background-color: #808080;
+    font-family: Griffy, sans-serif;
+}
